@@ -1,5 +1,8 @@
 name: stability_ai
-description: A simple gRPC client for StabilityAI
+description: |
+  A simple gRPC client for StabilityAI API. 
+  It can be used to create AI generated images using Stable Diffusion using
+  StabilityAI's DreamStudio.
 version: 1.0.0
 homepage: https://github.com/aq1018/stability_ai_dart
 repository: https://github.com/aq1018/stability_ai_dart
