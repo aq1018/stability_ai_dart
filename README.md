@@ -1,4 +1,4 @@
-A simple gRPC client for [Stability AI](https://stability.ai/). Most of the heavy lifting is done by auto generated code from [Stability-AI's Protocol Buffer Definitions](https://github.com/Stability-AI/api-interfaces/tree/main/src/proto).
+A simple gRPC client for [StabilityAI](https://stability.ai/). Most of the heavy lifting is done by auto generated code from [Stability-AI's Protocol Buffer Definitions](https://github.com/Stability-AI/api-interfaces/tree/main/src/proto).
 
 ## Features
 
