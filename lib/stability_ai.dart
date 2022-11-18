@@ -1,6 +1,7 @@
-/// Support for doing something awesome.
+/// A simple gRPC client for StabilityAI API.
 ///
-/// More dartdocs go here.
+/// This package can be used to create AI generated images using Stable Diffusion from
+/// StabilityAI's DreamStudio.
 library stability_ai;
 
 // dashboard service
