@@ -1,7 +1,9 @@
 name: stability_ai
-description: A starting point for Dart libraries or applications.
+description: A simple gRPC client for StabilityAI
 version: 1.0.0
 homepage: https://github.com/aq1018/stability_ai_dart
+repository: https://github.com/aq1018/stability_ai_dart
+issue_tracker: https://github.com/aq1018/stability_ai_dart/issues
 
 environment:
   sdk: '>=2.18.4 <3.0.0'
